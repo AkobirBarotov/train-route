@@ -1,0 +1,1848 @@
+[
+    {
+        "length": "343",
+        "type": "СК",
+        "number": "710Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Buxoro"]
+        },
+        "brand": "Sharq",
+        "places": {
+            "cars": [
+                {
+                    "type": "Сидячий",
+                    "seats": {
+                        "seatsUndef": "142",
+                        "seatsDn": null,
+                        "seatsUp": null,
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": null
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "226700",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "1С"
+                                },
+                                "seats": {
+                                    "seatsUndef": "78",
+                                    "seatsDn": null,
+                                    "seatsUp": null,
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": null
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": null,
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900001"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            },
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "458030",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "1В"
+                                },
+                                "seats": {
+                                    "seatsUndef": "4",
+                                    "seatsDn": null,
+                                    "seatsUp": null,
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": null
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": null,
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900001"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            },
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "139250",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2В"
+                                },
+                                "seats": {
+                                    "seatsUndef": "60",
+                                    "seatsDn": null,
+                                    "seatsUp": null,
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": null
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": null,
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900001"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "O'rindiqli",
+                    "indexType": "2",
+                    "freeSeats": "142"
+                }
+            ]
+        },
+        "departure": {
+            "time": "08:40",
+            "localTime": "08:40",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "12:05",
+            "localTime": "12:05",
+            "date": "09.04.2025",
+            "stop": "00:10",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "03:25",
+        "number2": "710Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "343",
+        "type": "СК",
+        "number": "716Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Qarshi"]
+        },
+        "brand": "Nasaf",
+        "places": {
+            "cars": [
+                {
+                    "type": "Сидячий",
+                    "seats": {
+                        "seatsUndef": "58",
+                        "seatsDn": null,
+                        "seatsUp": null,
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": null
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "139250",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2В"
+                                },
+                                "seats": {
+                                    "seatsUndef": "58",
+                                    "seatsDn": null,
+                                    "seatsUp": null,
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": null
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": null,
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900001"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "O'rindiqli",
+                    "indexType": "2",
+                    "freeSeats": "58"
+                }
+            ]
+        },
+        "departure": {
+            "time": "09:12",
+            "localTime": "09:12",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "12:37",
+            "localTime": "12:37",
+            "date": "09.04.2025",
+            "stop": "00:10",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "03:25",
+        "number2": "716Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "337",
+        "type": "ск",
+        "number": "054Ф",
+        "route": {
+            "station": ["Toshkent janubiy", "Qung'irot"]
+        },
+        "brand": "скорый",
+        "places": {
+            "cars": [
+                {
+                    "type": "Плацкартный",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "0",
+                        "seatsUp": "7",
+                        "seatsLateralDn": "1",
+                        "seatsLateralUp": "30",
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "100980",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "3П"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "0",
+                                    "seatsUp": "7",
+                                    "seatsLateralDn": "1",
+                                    "seatsLateralUp": "30",
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": "",
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Plaskartli",
+                    "indexType": "3",
+                    "freeSeats": "38"
+                },
+                {
+                    "type": "Купе",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "0",
+                        "seatsUp": "12",
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "146820",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2К"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "0",
+                                    "seatsUp": "12",
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Kupe",
+                    "indexType": "4",
+                    "freeSeats": "12"
+                },
+                {
+                    "type": "Люкс",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "1",
+                        "seatsUp": "0",
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "275060",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "1Л"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "1",
+                                    "seatsUp": "0",
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "35000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "SV",
+                    "indexType": "6",
+                    "freeSeats": "1"
+                }
+            ]
+        },
+        "departure": {
+            "time": "13:15",
+            "localTime": "13:15",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "17:05",
+            "localTime": "17:05",
+            "date": "09.04.2025",
+            "stop": "00:33",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "03:50",
+        "number2": "054Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "343",
+        "type": "СК",
+        "number": "712Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Buxoro"]
+        },
+        "brand": "Sharq",
+        "places": {
+            "cars": [
+                {
+                    "type": "Сидячий",
+                    "seats": {
+                        "seatsUndef": "265",
+                        "seatsDn": null,
+                        "seatsUp": null,
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": null
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "139250",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2В"
+                                },
+                                "seats": {
+                                    "seatsUndef": "103",
+                                    "seatsDn": null,
+                                    "seatsUp": null,
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": null
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": null,
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900001"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            },
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": "КАРШИ",
+                                "tariff": "139250",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2В"
+                                },
+                                "seats": {
+                                    "seatsUndef": "162",
+                                    "seatsDn": null,
+                                    "seatsUp": null,
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": null
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": null,
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900001"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "O'rindiqli",
+                    "indexType": "2",
+                    "freeSeats": "265"
+                }
+            ]
+        },
+        "departure": {
+            "time": "20:13",
+            "localTime": "20:13",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "23:45",
+            "localTime": "23:45",
+            "date": "09.04.2025",
+            "stop": "00:15",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "03:32",
+        "number2": "712Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "347",
+        "type": "ск",
+        "number": "082Ф",
+        "route": {
+            "station": ["Toshkent janubiy", "Sariosiyo"]
+        },
+        "brand": "Пассажирский",
+        "places": {
+            "cars": [
+                {
+                    "type": "Плацкартный",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "0",
+                        "seatsUp": "28",
+                        "seatsLateralDn": "4",
+                        "seatsLateralUp": "26",
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "100980",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "3П"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "0",
+                                    "seatsUp": "28",
+                                    "seatsLateralDn": "4",
+                                    "seatsLateralUp": "26",
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": "",
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Plaskartli",
+                    "indexType": "3",
+                    "freeSeats": "58"
+                },
+                {
+                    "type": "Купе",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "3",
+                        "seatsUp": "6",
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "146820",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2К"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "3",
+                                    "seatsUp": "6",
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Kupe",
+                    "indexType": "4",
+                    "freeSeats": "9"
+                },
+                {
+                    "type": "Люкс",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "2",
+                        "seatsUp": "0",
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "275060",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "1Л"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "2",
+                                    "seatsUp": "0",
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "35000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "SV",
+                    "indexType": "6",
+                    "freeSeats": "2"
+                }
+            ]
+        },
+        "departure": {
+            "time": "20:49",
+            "localTime": "20:49",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "00:52",
+            "localTime": "00:52",
+            "date": "10.04.2025",
+            "stop": "00:18",
+            "localDate": "10.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "04:03",
+        "number2": "082Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "347",
+        "type": "ск",
+        "number": "080Ф",
+        "route": {
+            "station": ["Toshkent janubiy", "Termez"]
+        },
+        "brand": "Пассажирский",
+        "places": {
+            "cars": [
+                {
+                    "type": "Общий",
+                    "seats": {
+                        "seatsUndef": "75",
+                        "seatsDn": null,
+                        "seatsUp": null,
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": null
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "50390",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "3О"
+                                },
+                                "seats": {
+                                    "seatsUndef": "75",
+                                    "seatsDn": null,
+                                    "seatsUp": null,
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": null
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": null,
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Umumiy",
+                    "indexType": "1",
+                    "freeSeats": "75"
+                },
+                {
+                    "type": "Плацкартный",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "0",
+                        "seatsUp": "26",
+                        "seatsLateralDn": "4",
+                        "seatsLateralUp": "26",
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "100980",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "3П"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "0",
+                                    "seatsUp": "26",
+                                    "seatsLateralDn": "4",
+                                    "seatsLateralUp": "26",
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": "",
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Plaskartli",
+                    "indexType": "3",
+                    "freeSeats": "56"
+                },
+                {
+                    "type": "Купе",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "3",
+                        "seatsUp": "18",
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": "1"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "146820",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2К"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "3",
+                                    "seatsUp": "18",
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": "1"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Kupe",
+                    "indexType": "4",
+                    "freeSeats": "21"
+                },
+                {
+                    "type": "Люкс",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "2",
+                        "seatsUp": "0",
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": "1"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "275060",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "1Л"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "2",
+                                    "seatsUp": "0",
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": "1"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "35000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "SV",
+                    "indexType": "6",
+                    "freeSeats": "2"
+                }
+            ]
+        },
+        "departure": {
+            "time": "20:50",
+            "localTime": "20:50",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "00:52",
+            "localTime": "00:52",
+            "date": "10.04.2025",
+            "stop": "00:18",
+            "localDate": "10.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "04:02",
+        "number2": "080Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "337",
+        "type": "ск",
+        "number": "056Ч",
+        "route": {
+            "station": ["Toshkent Janubiy", "Xiva"]
+        },
+        "brand": "Пассажирский",
+        "places": {
+            "cars": [
+                {
+                    "type": "Плацкартный",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "2",
+                        "seatsUp": "6",
+                        "seatsLateralDn": "1",
+                        "seatsLateralUp": "3",
+                        "freeComp": "0"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "100980",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "3П"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "2",
+                                    "seatsUp": "6",
+                                    "seatsLateralDn": "1",
+                                    "seatsLateralUp": "3",
+                                    "freeComp": "0"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": "",
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Plaskartli",
+                    "indexType": "3",
+                    "freeSeats": "12"
+                },
+                {
+                    "type": "Купе",
+                    "seats": {
+                        "seatsUndef": null,
+                        "seatsDn": "12",
+                        "seatsUp": "7",
+                        "seatsLateralDn": null,
+                        "seatsLateralUp": null,
+                        "freeComp": "2"
+                    },
+                    "tariffs": {
+                        "tariff": [
+                            {
+                                "owner": {
+                                    "type": "УТИ/УТИ",
+                                    "country": {
+                                        "name": "УЗБЕКИСТАН",
+                                        "code": "29"
+                                    },
+                                    "railway": {
+                                        "name": "УЗБЕКСКИЕ",
+                                        "code": "73"
+                                    }
+                                },
+                                "carrier": {
+                                    "name": "УТИ"
+                                },
+                                "station": null,
+                                "tariff": "146820",
+                                "comissionFee": "40000",
+                                "classService": {
+                                    "content": "",
+                                    "service": {},
+                                    "type": "2К"
+                                },
+                                "seats": {
+                                    "seatsUndef": null,
+                                    "seatsDn": "12",
+                                    "seatsUp": "7",
+                                    "seatsLateralDn": null,
+                                    "seatsLateralUp": null,
+                                    "freeComp": "2"
+                                },
+                                "elRegPossible": {
+                                    "uk": null,
+                                    "akp": null
+                                },
+                                "classServiceInt": null,
+                                "addSigns": null,
+                                "tariff2": null,
+                                "tariffService": "28000",
+                                "ud": null,
+                                "sellingInternetForbidden": null,
+                                "saleOnTwo": null,
+                                "saleOnFour": null,
+                                "modificators": null,
+                                "passVok": {
+                                    "stationFrom": {
+                                        "code": "2900002"
+                                    },
+                                    "stationTo": null
+                                },
+                                "swim": null,
+                                "selBedding": null,
+                                "payFood": null,
+                                "selFood": null,
+                                "addFood": null,
+                                "designCar": null,
+                                "seatsSex": null
+                            }
+                        ]
+                    },
+                    "typeShow": "Kupe",
+                    "indexType": "4",
+                    "freeSeats": "19"
+                }
+            ]
+        },
+        "departure": {
+            "time": "21:24",
+            "localTime": "21:24",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "01:30",
+            "localTime": "01:30",
+            "date": "10.04.2025",
+            "stop": "00:17",
+            "localDate": "10.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "04:06",
+        "number2": "056Ч",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "347",
+        "type": "СК",
+        "number": "127Ф",
+        "route": {
+            "station": ["Andijan1", "Qung'irot"]
+        },
+        "brand": "Пассажирский",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "01:07",
+            "localTime": "01:07",
+            "stop": "00:40",
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "05:18",
+            "localTime": "05:18",
+            "date": "09.04.2025",
+            "stop": "00:16",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "04:11",
+        "number2": "128*Ф",
+        "departureTrain": {
+            "date": "08.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "343",
+        "type": "скрст",
+        "number": "764Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Qarshi"]
+        },
+        "brand": "Afrosiyob",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "06:37",
+            "localTime": "06:37",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "08:48",
+            "localTime": "08:48",
+            "date": "09.04.2025",
+            "stop": "00:10",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "02:11",
+        "number2": "764Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "343",
+        "type": "скрст",
+        "number": "766Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Samarqand"]
+        },
+        "brand": "Afrosiyob",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "07:29",
+            "localTime": "07:29",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "09:52",
+            "localTime": "09:52",
+            "date": "09.04.2025",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "02:23",
+        "number2": "766Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "343",
+        "type": "скрст",
+        "number": "768Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Buxoro"]
+        },
+        "brand": "Afrosiyob",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "08:06",
+            "localTime": "08:06",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "10:17",
+            "localTime": "10:17",
+            "date": "09.04.2025",
+            "stop": "00:15",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "02:11",
+        "number2": "768Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "343",
+        "type": "скрст",
+        "number": "770Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Buxoro"]
+        },
+        "brand": "Afrosiyob",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "08:33",
+            "localTime": "08:33",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "10:49",
+            "localTime": "10:49",
+            "date": "09.04.2025",
+            "stop": "00:14",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "02:16",
+        "number2": "770Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "343",
+        "type": "скрст",
+        "number": "772Ф",
+        "route": {
+            "station": ["Toshkent Markaziy", "Buxoro"]
+        },
+        "brand": "Afrosiyob",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "19:44",
+            "localTime": "19:44",
+            "stop": null,
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "22:06",
+            "localTime": "22:06",
+            "date": "09.04.2025",
+            "stop": "00:14",
+            "localDate": "09.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "02:22",
+        "number2": "772Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "347",
+        "type": "СК",
+        "number": "125Ч",
+        "route": {
+            "station": ["Andijon 1", "Urganch"]
+        },
+        "brand": "Пассажирский",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "22:48",
+            "localTime": "22:48",
+            "stop": "00:54",
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "02:43",
+            "localTime": "02:43",
+            "date": "10.04.2025",
+            "stop": "00:16",
+            "localDate": "10.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "03:55",
+        "number2": "126*Ч",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    },
+    {
+        "length": "347",
+        "type": "ск",
+        "number": "129Ф",
+        "route": {
+            "station": ["Andijon", "Termez"]
+        },
+        "brand": "Пассажирский",
+        "places": {
+            "cars": []
+        },
+        "departure": {
+            "time": "23:29",
+            "localTime": "23:29",
+            "stop": "00:42",
+            "localDate": "09.04.2025"
+        },
+        "arrival": {
+            "time": "03:19",
+            "localTime": "03:19",
+            "date": "10.04.2025",
+            "stop": "00:21",
+            "localDate": "10.04.2025"
+        },
+        "comments": null,
+        "timeInWay": "03:50",
+        "number2": "130*Ф",
+        "departureTrain": {
+            "date": "09.04.2025"
+        },
+        "elRegPossible": "",
+        "firmName": null,
+        "parom": null,
+        "bus": null
+    }
+]
